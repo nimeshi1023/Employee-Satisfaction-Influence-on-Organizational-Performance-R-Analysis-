@@ -13,6 +13,7 @@
     &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/nimeshi1023/Employee-Satisfaction-Influence-on-Organizational-Performance-R-Analysis-/blob/main/screenshots/Screenshot%202026-04-03%20194231.png" width="40%"/>
 </p>
+
 ## 📊 Employee Satisfaction Influence on Organizational Performance (R Analysis)
 
 This repository contains our group research project completed for the Theory and Practices in Statistical Modelling module at Sri Lanka Institute of Information Technology.
