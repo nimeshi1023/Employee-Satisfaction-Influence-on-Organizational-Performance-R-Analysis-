@@ -1,9 +1,17 @@
 # Employee-Satisfaction-Influence-on-Organizational-Performance-R-Analysis-
 ## 📌 Project Overview
   <p align="center">
-  <img src="https://github.com/nimeshi1023/Employee-Satisfaction-Influence-on-Organizational-Performance-R-Analysis-/edit/main/screenshots/Screenshot%20(526).png" width="40%"/>
+  <img src="https://github.com/nimeshi1023/Employee-Satisfaction-Influence-on-Organizational-Performance-R-Analysis-/blob/main/screenshots/Screenshot%202026-04-03%20163936.png" width="40%"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/nimeshi1023/Weather-Prediction/blob/main/Screenshot/Screenshot%20(527).png" width="40%"/>
+  <img src="https://github.com/nimeshi1023/Employee-Satisfaction-Influence-on-Organizational-Performance-R-Analysis-/blob/main/screenshots/Screenshot%202026-04-03%20165608.png" width="40%"/>
+    &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/nimeshi1023/Employee-Satisfaction-Influence-on-Organizational-Performance-R-Analysis-/blob/main/screenshots/Screenshot%202026-04-03%20170713.png" width="40%"/>
+    &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/nimeshi1023/Employee-Satisfaction-Influence-on-Organizational-Performance-R-Analysis-/blob/main/screenshots/Screenshot%202026-04-03%20172745.png" width="40%"/>
+    &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/nimeshi1023/Employee-Satisfaction-Influence-on-Organizational-Performance-R-Analysis-/blob/main/screenshots/Screenshot%202026-04-03%20173428.png" width="40%"/>
+    &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/nimeshi1023/Employee-Satisfaction-Influence-on-Organizational-Performance-R-Analysis-/blob/main/screenshots/Screenshot%202026-04-03%20194231.png" width="40%"/>
 </p>
 ## 📊 Employee Satisfaction Influence on Organizational Performance (R Analysis)
 
